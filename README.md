@@ -27,8 +27,13 @@ Forgot Password
 Note: For Forgot password , you have provide your gmail credetails in password-recovery.php. After that email function will work on your localhost.
 
 Credential for admin panel :
+
 Username: admin
+
 Password: Test@12345
+
 Credential for user panel :
+
 Username: johndoe12@gamil.com
+
 Password : Test@123
